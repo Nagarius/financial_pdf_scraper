@@ -7,3 +7,12 @@ https://www.java.com/en/download/
 pip install tabula-py
 
 pip install PyMuPDF
+
+# Keyword Weighting
+pip install PyPDF2
+
+pip install textract
+
+pip install regex
+
+pip install gensin

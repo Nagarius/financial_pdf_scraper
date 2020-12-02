@@ -1,63 +1,128 @@
+Customer Markets,186,194
+Integrated Energy,"1,526","1,721"
+Investments,18,33
+Centrally Managed Expenses,(413),(288)
+Underlying EBIT,"1,317","1,660"
+1.1.2 Group financial performance,,
+"",2020,2019
 "",$m,$m
-Profit before income tax expense1,286.6,433.5
-Add back: depreciation and amortisation1,438.0,415.6
-"Profit before tax, depreciation and amortisation",724.6,849.1
-Add/(subtract) non?cash expenses,,
-– Capital indexed bonds capitalised2,17.8,22.6
-– Amortisation of debt establishment costs2,4.2,13.4
-– Borrowing costs capitalised2,(9.7),(10.6)
-– Change in fair value of swaps2,0.1,5.0
-Total non?cash expenses,12.4,30.4
-Add/(subtract) other cash movements,,
-Movement in cash balances with restricted use3,(0.8),(0.6)
-Other,(18.1),(18.0)
-Total other cash movements,(18.9),(18.6)
-Indemnity and MALSA costs1,187.6,–
-Net operating receipts,905.7,860.9
-Average stapled securities on issue (m)4,"2,257.4","2,253.8"
-Net operating receipts per stapled security,40.1c,38.2c
-Distributions declared per stapled security,39.0c,37.5c
-Ratio of net operating receipts to distribution,103%,102%
-"",,2019,2018,2019,2018
-"",Note,$m,$m,$m,$m
+Revenue,"12,160","13,246"
+Cost of sales,"(8,492)","(9,440)"
+Other income,9,27
+Gross margin,"3,677","3,833"
+Operating costs (excluding depreciation and amortisation),"(1,607)","(1,548)"
+Underlying EBITDA,"2,070","2,285"
+Depreciation and amortisation,(753),(625)
+Underlying EBIT,"1,317","1,660"
+Net finance costs,(179),(193)
+Underlying Profit before tax,"1,138","1,467"
+Income tax expense,(322),(427)
+Underlying Profit after tax,816,"1,040"
+"1,040"
+(156)
+""
+""
+816
+Electricity Portfolio,,
+Total revenue,"7,172","7,010"
+Customer network and other cost of sales,"(3,312)","(3,067)"
+Fuel costs,"(1,013)","(1,063)"
+Generation running costs,(716),(660)
+Depreciation and amortisation,(499),(422)
+Net portfolio management,164,191
+Electricity Portfolio Margin (a),"1,796","1,989"
+Gas Portfolio,,
+Total revenue,"2,496","2,626"
+Customer network and other cost of sales,(584),(575)
+Gas purchases,(950),"(1,045)"
+"Haulage, storage and other",(308),(287)
+Gas Portfolio Margin,654,719
+Natural Gas,(29),(58)
+Gas Portfolio Margin (including Natural Gas) (b),625,661
+Other AGL,,
+Other margin1,44,66
+Customer Markets operating costs,(500),(532)
+Wholesale Markets operating costs,(44),(26)
+Group Operations other operating costs,(38),(61)
+Centrally Managed Expenses operating costs,(342),(264)
+Other depreciation and amortisation,(224),(173)
+Net finance costs,(179),(193)
+Income tax expense,(322),(427)
+Total Other AGL (c),"(1,605)","(1,610)"
+Underlying Profit after Tax (a + b + c),816,"1,040"
+"7,717","7,775",183,–,–,"(3,515)","12,160"
+"(6,899)","(5,101)",(7),–,–,"3,515","(8,492)"
+–,–,(9),18,–,–,9
+818,"2,674",167,18,–,–,"3,677"
+(500),(44),(721),–,(342),–,"(1,607)"
+318,"2,630",(554),18,(342),–,"2,070"
+(132),(17),(533),–,(71),–,(753)
+186,"2,613","(1,087)",18,(413),–,"1,317"
+"",,,,,,(179)
+"",,,,,,"1,138"
+"",,,,,,(322)
+"",,,,,,816
+""
+"12,160"
+-
+"(9,820)"
+17
+"2,357"
+(753)
+"1,604"
+4
+(183)
+(179)
+"1,425"
+(410)
+"1,015"
+""
+""
+158.4 cents
+158.2 cents
+"",,,,,
+"7,717","7,775",183,-,-,"15,675"
+(32),"(3,437)",(46),-,-,"(3,515)"
+"7,685","4,338",137,-,-,"12,160"
+318,"2,630",(554),18,(342),"2,070"
+(132),(17),(533),-,(71),(753)
+186,"2,613","(1,087)",18,(413),"1,317"
+"",,,,,(179)
+"",,,,,"1,138"
+"",,,,,(322)
+"",,,,,816
+"2,495","2,322","7,469",253,532,"13,071"
+575,664,890,-,182,"2,311"
+-,-,-,17,-,17
+-,-,4,131,-,135
+92,43,541,-,70,746
+(119),-,-,-,(9),(128)
+1. Segment information (cont.),,,,,
+Customer Markets,Wholesale Markets,Group Operations,Investments,Other,Total
+2019 $m,$m,$m,$m,$m,$m
 Revenue,,,,,
-Aeronautical revenue,,739.3,721.7,-,-
-Aeronautical security recovery,,105.0,98.7,-,-
-Retail revenue,,374.9,357.0,-,-
-Property and car rental revenue,,251.2,238.1,-,-
-Parking and ground transport revenue,,162.0,162.1,-,-
-Other revenue,,7.2,7.1,-,-
-Total revenue,,"1,639.6","1,584.7",-,-
-Other income,,,,,
-Gain on disposal of non-current assets,,0.1,0.2,-,-
-Total revenue and other income,,"1,639.7","1,584.9",-,-
-Operating expenses,,,,,
-Employee benefits expense,,(56.8),(62.2),-,-
-Services and utilities expense,,(83.4),(83.7),-,-
-Property and maintenance expense,,(29.6),(29.8),-,-
-Security recoverable expense,,(98.3),(91.5),-,-
-Other operational costs,,(35.3),(32.7),(2.0),(1.9)
-Total operating expenses,,(303.4),(299.9),(2.0),(1.9)
-Other expenses,,,,,
-Indemnity expense,14,(183.4),-,(183.4),-
-MALSA expense,14,(4.2),-,(4.2),-
-Restructuring and redundancy expenses 1,,(3.2),(2.4),-,-
-Total other expenses,,(190.8),(2.4),(187.6),-
-"Total expenses before depreciation, amortisation, net finance",,(494.2),(302.3),(189.6),(1.9)
-costs and income tax,,,,,
-"Profit/(loss) before depreciation, amortisation, net finance",,"1,145.5","1,282.6",(189.6),(1.9)
-costs and income tax (EBITDA),,,,,
-Depreciation,10,(352.7),(330.3),-,-
-Amortisation,11,(85.3),(85.3),-,-
-Profit/(loss) before net finance costs and income tax (EBIT),,707.5,867.0,(189.6),(1.9)
-Finance income,6,8.3,9.3,233.7,233.7
-Finance costs,6,(429.1),(437.8),-,-
-Change in fair value of swaps,6,(0.1),(5.0),-,-
-Net finance costs,,(420.9),(433.5),233.7,233.7
-Profit before income tax expense,,286.6,433.5,44.1,231.8
-Income tax expense,12,(71.6),(62.5),-,-
-Profit after income tax expense,,215.0,371.0,44.1,231.8
-Profit after income tax expense attributable to:,,,,,
-Security holders,,403.9,372.5,44.1,231.8
-Non-controlling interest,,(188.9),(1.5),-,-
-"",,215.0,371.0,44.1,231.8
+"Total segment revenue 7,554","9,100",188,1,-,"16,843"
+Inter-segment revenue (14),"(3,539)",(44),-,-,"(3,597)"
+"External revenue 7,540","5,561",144,1,-,"13,246"
+Underlying earnings before,,,,,
+"interest, tax, depreciation",,,,,
+and amortisation,,,,,
+(Underlying EBITDA) 295,"2,778",(556),33,(265),"2,285"
+Depreciation,,,,,
+and amortisation (101),(21),(480),-,(23),(625)
+Underlying EBIT 194,"2,757","(1,036)",33,(288),"1,660"
+Net financing costs,,,,,(193)
+Underlying profit before tax,,,,,"1,467"
+Underlying income,,,,,
+tax expense,,,,,(427)
+Underlying profit after tax,,,,,"1,040"
+"Segment assets 2,576","2,951","7,560",239,266,"13,592"
+Segment liabilities 543,884,887,-,181,"2,495"
+Other segment information,,,,,
+Share of profits of associates,,,,,
+and joint ventures -,-,1,32,-,33
+Investments in associates and,,,,,
+joint ventures -,-,4,146,-,150
+Additions to non-,,,,,
+current assets 134,71,688,60,104,"1,057"
+Other non-cash expenses (120),-,-,-,(6),(126)

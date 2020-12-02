@@ -4,11 +4,14 @@ import fitz
 print('hello')
 
 #financial_report1 = "SYD_Annual_Report_2019_FINAL.pdf"
-financial_report = "SYD_Annual_Report_2019_FINAL.pdf"
-financial_report1 = "cba-2020-annual-report.pdf"
+financial_report1 = "SYD_Annual_Report_2019_FINAL.pdf"
+financial_report2 = "cba-2020-annual-report.pdf"
+financial_report3 = "Suncorp.pdf"
+financial_report = "agl_annualreport.pdf"
 
 #### search term ####
-search_term = ["income", "profit", "income tax", "expenses", "operating", "year ended"]
+search_term = ["income", "profit", "income tax", "expenses", "operat", "year ended", "$M"]
+#assets, current assets, balance sheet, cashflow statement
 pdf_document = fitz.open(financial_report)
 pages_wterm = []
 
@@ -31,7 +34,7 @@ print(pages_wterm)
 
 
 # Read pdf int list of DataFrame
-df = tabula.read_pdf(financial_report, pages= pages_wterm )
+df = tabula.read_pdf(financial_report, pages= pages_wterm)
 
 # convert PDF into CSV file
 tabula.convert_into(financial_report, "output.csv", output_format="csv", pages= pages_wterm)
